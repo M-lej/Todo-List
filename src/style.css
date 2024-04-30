@@ -1,0 +1,92 @@
+body {
+  background-color: #252424;
+}
+
+.NavLinks {
+  padding: 20px;
+  margin: auto;
+  margin-top: 200px;
+  width: 50%;
+  background-color: #391f3e;
+  border-bottom: yellow;
+}
+
+a {
+  color: #cacaca;
+  text-decoration: none;
+  padding: 20px 50px;
+}
+
+.TodoForm {
+  background-color: #442649;
+  padding: 20px;
+  margin: auto;
+  width: 50%;
+}
+
+.InputDiv {
+  margin: auto;
+  width: 30%;
+}
+
+.TodoInput {
+  background-color: #cacaca;
+  padding: 10px;
+}
+
+.Btn {
+  background-color: #2c2b2d;
+  color: #cacaca;
+  border-radius: 15px;
+  padding: 10px;
+  margin-left: 10px;
+  margin-bottom: 20px;
+}
+
+.CheckBoxBtn {
+  top: 0;
+  left: 0;
+  height: 20px;
+  width: 20px;
+  background-color: #eee;
+}
+
+.TodoTasks {
+  list-style: none;
+  color: #cacaca;
+  margin: auto;
+  width: 50%;
+  padding: 50px;
+}
+
+.InfoDiv {
+  background-color: #442649;
+  padding: 20px;
+  margin: auto;
+  width: 50%;
+}
+.InfoH2 {
+  color: #cacaca;
+  text-align: center;
+}
+
+.InfoText {
+  color: #cacaca;
+}
+
+.WelcomeDiv {
+  background-color: #442649;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  padding: 20px;
+  margin: auto;
+  width: 50%;
+}
+
+.WelcomeH {
+  color: #cacaca;
+}
+
+.WelcomeText {
+  color: #cacaca;
+}
